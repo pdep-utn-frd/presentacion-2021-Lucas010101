@@ -7,4 +7,6 @@ Mi legajo es: **11414**
 > + Tengo una sola mascota, es una perra de 1 año
 > + Estoy aprendiendo sobre marketing digital, ya tengo dominio, host y landing page
 > + Ciudadania Eslovaca en proceso 
->               <img src="https://image.freepik.com/foto-gratis/primer-plano-bandera-eslovaquia_181624-11770.jpg" width="100" >
+
+
+<img src="https://image.freepik.com/foto-gratis/primer-plano-bandera-eslovaquia_181624-11770.jpg" width="100" >
