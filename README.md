@@ -1,5 +1,5 @@
 # Quien soy?
-> + Me llamo Lucas Ballesteros, tengo 22 años y soy de Zárate.
+> + Me llamo **Lucas Ballesteros**, tengo 22 años y soy de Zárate.
 Mi legajo es: 11414
 
 ## Cuales son mis Hobies?
