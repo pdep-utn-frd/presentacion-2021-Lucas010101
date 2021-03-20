@@ -9,4 +9,4 @@ Mi legajo es: **11414**
 > + Ciudadania Eslovaca en proceso 
 
 
-                       <img src="https://image.freepik.com/foto-gratis/primer-plano-bandera-eslovaquia_181624-11770.jpg" width="100" >
+<img src="https://image.freepik.com/foto-gratis/primer-plano-bandera-eslovaquia_181624-11770.jpg" width="100" >
